@@ -1,4 +1,4 @@
 C-Development
 =============
 
-Repo dedicated to the c# team.
+Repo dedicated to the c team.
